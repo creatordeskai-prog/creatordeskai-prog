@@ -33,3 +33,8 @@ https://buy.stripe.com/8x27sK5N19cg0hOfMq8N200
 ## Contact
 
 creatordeskai@gmail.com
+
+
+## Free small-business visibility checklist
+
+Use this before buying more marketing: [Small-Business Visibility Fix Checklist](./SMALL_BUSINESS_VISIBILITY_CHECKLIST.md)
