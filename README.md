@@ -60,3 +60,10 @@ Use this before buying more marketing: [Small-Business Visibility Fix Checklist]
 ## Website template residue check
 
 [Run the free 5-minute template residue check](./WEBSITE_TEMPLATE_RESIDUE_CHECK.md) before paying for a redesign.
+
+
+## Free practical guides
+
+- [Website Placeholder Text Audit](./WEBSITE_PLACEHOLDER_TEXT_AUDIT.md)
+- [Business Information Consistency Check](./BUSINESS_INFO_CONSISTENCY_CHECK.md)
+- [Automation Completion Checklist](./AUTOMATION_COMPLETION_CHECKLIST.md)
