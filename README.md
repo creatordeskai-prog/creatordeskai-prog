@@ -41,3 +41,8 @@ creatordeskai@gmail.com
 ## Free small-business visibility checklist
 
 Use this before buying more marketing: [Small-Business Visibility Fix Checklist](./SMALL_BUSINESS_VISIBILITY_CHECKLIST.md)
+
+
+## Practical guide
+
+[AI Automation Cleanup for Small Businesses](./AI_AUTOMATION_CLEANUP_FOR_SMALL_BUSINESS.md)
