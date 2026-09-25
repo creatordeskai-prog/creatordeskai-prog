@@ -51,3 +51,12 @@ Current machine-product traction claims remain evidence-based. Live deployment d
 > **Automation is not completion. Verification is completion.**
 
 Creator Desk AI does not promise rankings, revenue, platform approval, or outcomes it cannot independently verify.
+
+
+---
+
+## I run a web or marketing agency
+
+Need help closing small post-launch cleanup/QA work without turning it into another full project?
+
+[See the Agency QA & Cleanup Overflow Pilot](./AGENCY_QA_OVERFLOW.md)
