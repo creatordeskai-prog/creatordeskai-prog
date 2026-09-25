@@ -8,6 +8,9 @@ Creator Desk AI builds practical digital systems and verification-first tools fo
 
 ## Public machine products
 
+[See all nine machine products, endpoints and prices](./MACHINE_PRODUCTS.md)
+
+
 Creator Desk Agent Supervisor exposes nine machine-callable utilities behind x402 payment challenges, including:
 
 - commerce completion evidence verification
