@@ -25,6 +25,9 @@ MCP endpoint: https://creator-desk-agent-supervisor.onrender.com/mcp
 
 ## Small-business visibility
 
+Public offer details: [Business Visibility Fix](./BUSINESS_VISIBILITY_FIX.md)
+
+
 Creator Desk AI also tests practical service offers that fix measurable customer-facing digital problems instead of selling vague marketing promises.
 
 Current Business Visibility Fix checkout experiment:  
