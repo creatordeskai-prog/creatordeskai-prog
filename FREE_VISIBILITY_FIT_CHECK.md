@@ -35,3 +35,11 @@ Include the public URL you want checked.
 No purchase is required for the fit check.
 
 > **AUTOMATION IS NOT COMPLETION. VERIFICATION IS COMPLETION.**
+
+
+## Prefer GitHub?
+
+Submit the same public-only request through the repository's issue form:
+https://github.com/creatordeskai-prog/creatordeskai-prog/issues/new/choose
+
+Do not include passwords, private customer information, API keys, payment details, or other confidential material.
