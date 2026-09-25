@@ -21,7 +21,9 @@ Use the **Business Visibility Fix** when you already have a real, observable iss
 [Open the current $199 Stripe checkout](https://buy.stripe.com/8x27sK5N19cg0hOfMq8N200)
 
 **Not sure yet?**  
-[Run the free 10-point visibility checklist](./SMALL_BUSINESS_VISIBILITY_CHECKLIST.md)
+[Request a free one-URL Visibility Fit Check](./FREE_VISIBILITY_FIT_CHECK.md)
+
+Or [run the free 10-point visibility checklist](./SMALL_BUSINESS_VISIBILITY_CHECKLIST.md)
 
 Or email **creatordeskai@gmail.com** with the subject **Visibility Fix Scope**.
 
