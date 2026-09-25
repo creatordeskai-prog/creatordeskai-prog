@@ -1,5 +1,7 @@
 # Creator Desk AI
 
+[**START HERE** — small-business fixes or machine products](./START_HERE.md)
+
 **Automation is not completion. Verification is completion.**
 
 Creator Desk AI builds practical digital systems and verification-first tools for small businesses, creators, and autonomous agents.
