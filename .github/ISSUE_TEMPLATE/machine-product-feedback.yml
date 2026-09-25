@@ -1,0 +1,49 @@
+name: Machine Product Feedback
+description: Report an integration question, bounded use case, or observed problem with a Creator Desk machine product.
+title: "[MACHINE PRODUCT] "
+labels: ["machine-product"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Creator Desk Agent Supervisor provides bounded machine-callable utilities.
+
+        Do not post private keys, wallet seed phrases, API secrets, private customer data, authentication tokens, or confidential payloads.
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      options:
+        - Commerce Completion Verify
+        - Public URL / Deployment Inspector
+        - Structured Web Page Extractor
+        - Page Evidence Checker
+        - Crawl Config / Sitemap Discovery
+        - JSON Field Extractor
+        - Format Converter
+        - DNS Lookup
+        - JSON Contract Validator
+        - MCP endpoint / general integration
+    validations:
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: What are you trying to do?
+      description: Describe the bounded integration or use case.
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: What happened?
+      description: Include public/non-sensitive error text or behavior if relevant.
+    validations:
+      required: false
+  - type: checkboxes
+    id: safe
+    attributes:
+      label: Safety confirmation
+      options:
+        - label: I have removed secrets, credentials, private customer data, and confidential payloads.
+          required: true
