@@ -1,0 +1,44 @@
+name: Free Visibility Fit Check
+description: Ask Creator Desk AI to inspect one public business URL for one verifiable customer-facing issue.
+title: "[FIT CHECK] "
+labels: ["fit-check"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit **public business information only**. Do not include passwords, private customer data, API keys, payment details, or confidential material.
+
+        Creator Desk AI will look for one specific public-facing issue that can be independently verified. If no real issue is found from the public surface, we will not invent one.
+  - type: input
+    id: public_url
+    attributes:
+      label: Public business URL
+      description: The public page you want checked.
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: concern
+    attributes:
+      label: What are you concerned about?
+      description: Optional. Tell us what seems wrong or what you want checked.
+      placeholder: Contact details, unfinished page, broken CTA, inconsistent business info, etc.
+    validations:
+      required: false
+  - type: dropdown
+    id: goal
+    attributes:
+      label: Primary goal
+      options:
+        - Verify whether a real public issue exists
+        - Check whether the issue fits the $199 Business Visibility Fix
+        - Get a second look at a customer-facing path
+    validations:
+      required: true
+  - type: checkboxes
+    id: public_only
+    attributes:
+      label: Safety confirmation
+      options:
+        - label: I am sharing only public business information and no secrets or private customer data.
+          required: true
