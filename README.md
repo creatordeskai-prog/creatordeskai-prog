@@ -46,3 +46,8 @@ Use this before buying more marketing: [Small-Business Visibility Fix Checklist]
 ## Practical guide
 
 [AI Automation Cleanup for Small Businesses](./AI_AUTOMATION_CLEANUP_FOR_SMALL_BUSINESS.md)
+
+
+## Verification-first example
+
+[How to verify a website cleanup actually finished](./VERIFICATION_FIRST_WEBSITE_CLEANUP.md)
