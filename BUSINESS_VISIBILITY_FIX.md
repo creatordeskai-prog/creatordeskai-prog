@@ -36,6 +36,6 @@ This is not a promise of rankings, traffic, revenue, platform approval, legal co
 
 Checkout: https://buy.stripe.com/8x27sK5N19cg0hOfMq8N200
 
-Prefer to confirm scope first? Email: **creatordeskai@gmail.com**
+Prefer to confirm scope first? [Email Creator Desk AI with the subject “Visibility Fix Scope”](mailto:creatordeskai@gmail.com?subject=Visibility%20Fix%20Scope)
 
 Free pre-check resource: [Small-Business Visibility Fix Checklist](./SMALL_BUSINESS_VISIBILITY_CHECKLIST.md)
