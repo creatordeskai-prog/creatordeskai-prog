@@ -51,3 +51,7 @@ Use this before buying more marketing: [Small-Business Visibility Fix Checklist]
 ## Verification-first example
 
 [How to verify a website cleanup actually finished](./VERIFICATION_FIRST_WEBSITE_CLEANUP.md)
+
+## Website template residue check
+
+[Run the free 5-minute template residue check](./WEBSITE_TEMPLATE_RESIDUE_CHECK.md) before paying for a redesign.
